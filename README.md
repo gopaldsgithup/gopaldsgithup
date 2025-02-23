@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-## About Me<br><br><!--<br>**gopaldsgithup/gopaldsgithup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br><br>Hi , I'm Gopalakrishnan T.<br>Completed BBA Madras University.<br>I’m currently learning in guvi to become a data science professional with IIT-M Pravartak certification in advanced programming course.<br>I’m interested in data scientist,AI and ML.<br>I’m looking to collaborate on data science domain.<br>How to reach me -linkedin:https://www.linkedin.com/in/gopalakrishnan-t<br>Fun fact: Always be positive 😄<br>
+<br><br>Hi , I'm Gopalakrishnan T.<br>Completed BBA Madras University.<br>I’m currently learning in guvi to become a data science professional with IIT-M Pravartak certification in advanced programming course.<br>I’m interested in data scientist,AI and ML.<br>I’m looking to collaborate on data science domain.<br>How to reach me -linkedin:https://www.linkedin.com/in/gopalakrishnan-t<br>Fun fact: Always be positive 😄<br>
 
 
 ## 🌐 Socials:
